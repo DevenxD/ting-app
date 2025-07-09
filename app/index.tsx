@@ -29,7 +29,7 @@ const Home = () => {
 				value={search}
 				onChangeText={(text) => setSearch(text)}
 			/>
-			<Text>Home Screen</Text>
+			<Text>Home Screen Here</Text>
 			<Button mode='contained' onPress={() => { }}>Butt</Button>
 		</Surface>
 	)
